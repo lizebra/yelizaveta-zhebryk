@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
+- Leaflet Map https://lizebra.github.io/yelizaveta-zhebryk/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-5leU3jj3CX3TVmFc0pG9cPR7Flj6fldxfHbmMkHLJ0/edit#gid=0
 
 ## Create Your Own
